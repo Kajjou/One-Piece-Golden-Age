@@ -2,12 +2,12 @@
   "name": "opgalauncher",
   "version": "1.0.0",
   "productName": "OPGA Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "description": "Launcher minecraft pour le serveur RP-Moddé One Piece : Golden Age. Montez à bord du navire !",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/), Kaizoku/Docmojo",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/Kajjou/One-Piece-Golden-Age",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/Kajjou/One-Piece-Golden-Age/issues"
   },
   "private": true,
   "main": "index.js",
@@ -47,6 +47,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/Kajjou/One-Piece-Golden-Age.git"
   }
 }
