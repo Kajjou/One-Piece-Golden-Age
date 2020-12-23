@@ -18,8 +18,8 @@ function getCurrentPlatform(){
 builder.build({
     targets: (process.argv[2] != null && Platform[process.argv[2]] != null ? Platform[process.argv[2]] : getCurrentPlatform()).createTarget(),
     config: {
-        appId: 'helioslauncher',
-        productName: 'Helios Launcher',
+        appId: 'opgalauncher',
+        productName: 'OPGA Launcher',
         artifactName: '${productName}-setup-${version}.${ext}',
         copyright: 'Copyright © 2018-2020 Daniel Scalzi',
         directories: {
@@ -48,8 +48,8 @@ builder.build({
             target: 'AppImage',
             maintainer: 'Daniel Scalzi',
             vendor: 'Daniel Scalzi',
-            synopsis: 'Modded Minecraft Launcher',
-            description: 'Custom launcher which allows users to join modded servers. All mods, configurations, and updates are handled automatically.',
+            synopsis: 'Launcher minecraft moddé',
+            description: 'Launcher minecraft pour le serveur RP-Moddé One Piece : Golden Age. Montez à bord du navire !',
             category: 'Game'
         },
         compression: 'maximum',
