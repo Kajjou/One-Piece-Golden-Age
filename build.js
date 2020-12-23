@@ -20,7 +20,7 @@ builder.build({
     config: {
         appId: 'opgalauncher',
         productName: 'OPGA Launcher',
-        artifactName: '${productName}-setup-${version}.${ext}',
+        artifactName: 'OPGA',
         copyright: 'Copyright © 2018-2020 Daniel Scalzi',
         directories: {
             buildResources: 'build',
